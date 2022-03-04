@@ -1,0 +1,7 @@
+C:\Users\AINUN HUSIN\Documents\SharpDevelop Projects\Tugas Latihan 4\Tugas Latihan 4\bin\Debug\Tugas Latihan 4.exe
+C:\Users\AINUN HUSIN\Documents\SharpDevelop Projects\Tugas Latihan 4\Tugas Latihan 4\bin\Debug\Tugas Latihan 4.pdb
+C:\Users\AINUN HUSIN\Documents\SharpDevelop Projects\Tugas Latihan 4\Tugas Latihan 4\obj\Debug\Tugas Latihan 4.csprojResolveAssemblyReference.cache
+C:\Users\AINUN HUSIN\Documents\SharpDevelop Projects\Tugas Latihan 4\Tugas Latihan 4\obj\Debug\Tugas_Latihan_4.MainForm.resources
+C:\Users\AINUN HUSIN\Documents\SharpDevelop Projects\Tugas Latihan 4\Tugas Latihan 4\obj\Debug\Tugas Latihan 4.csproj.GenerateResource.Cache
+C:\Users\AINUN HUSIN\Documents\SharpDevelop Projects\Tugas Latihan 4\Tugas Latihan 4\obj\Debug\Tugas Latihan 4.exe
+C:\Users\AINUN HUSIN\Documents\SharpDevelop Projects\Tugas Latihan 4\Tugas Latihan 4\obj\Debug\Tugas Latihan 4.pdb

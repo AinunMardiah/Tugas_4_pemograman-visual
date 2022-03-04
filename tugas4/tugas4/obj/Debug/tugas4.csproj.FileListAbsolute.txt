@@ -1,0 +1,7 @@
+C:\Users\AINUN HUSIN\Documents\SharpDevelop Projects\tugas4\tugas4\obj\Debug\tugas4.csprojResolveAssemblyReference.cache
+C:\Users\AINUN HUSIN\Documents\SharpDevelop Projects\tugas4\tugas4\obj\Debug\tugas4.MainForm.resources
+C:\Users\AINUN HUSIN\Documents\SharpDevelop Projects\tugas4\tugas4\obj\Debug\tugas4.csproj.GenerateResource.Cache
+C:\Users\AINUN HUSIN\Documents\SharpDevelop Projects\tugas4\tugas4\bin\Debug\tugas4.exe
+C:\Users\AINUN HUSIN\Documents\SharpDevelop Projects\tugas4\tugas4\bin\Debug\tugas4.pdb
+C:\Users\AINUN HUSIN\Documents\SharpDevelop Projects\tugas4\tugas4\obj\Debug\tugas4.exe
+C:\Users\AINUN HUSIN\Documents\SharpDevelop Projects\tugas4\tugas4\obj\Debug\tugas4.pdb
